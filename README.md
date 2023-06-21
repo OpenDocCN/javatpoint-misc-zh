@@ -25,7 +25,7 @@
         {color}：显示颜色
         {repo}：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         {repo}：ApacheCN 的 Github 仓库名称
 -->
@@ -38,7 +38,7 @@
 > 
 > 危机只有发展到最困难的阶段，才有可能倒逼出有效的解决方案。——《两次全球大危机的比较研究》
 
-* [在线阅读](https://{domain}.apachecn.org)
+* [在线阅读](https://{domain}.flygon.net)
 ## 下载
 
 ### Docker
